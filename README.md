@@ -1,4 +1,4 @@
-# movies-recommender-system
+# Movies Recommendation System
 
 ## Live Website URL
 
